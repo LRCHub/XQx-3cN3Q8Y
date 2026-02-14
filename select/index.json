@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "ドーパミント！ (BPM103)",
+  "base_artist": "Tokyo Incidents",
+  "createdAt": "2026-02-14T14:07:41.045678Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ドーパミント!",
+      "artist": "Tokyo Incidents",
+      "has_synced": false,
+      "path": "select/01_ドーパミント!_Tokyo_Incidents.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ドーパミント！",
+      "artist": "東京事変",
+      "has_synced": false,
+      "path": "select/02_ドーパミント!_東京事変.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ドーパミント! - Bpm103",
+      "artist": "Tokyo Incidents",
+      "has_synced": false,
+      "path": "select/03_ドーパミント!_-_Bpm103_Tokyo_Incidents.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ドーパミント!",
+      "artist": "Tokyo Jihen",
+      "has_synced": true,
+      "path": "select/04_ドーパミント!_Tokyo_Jihen.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ドーパミント! BPM103",
+      "artist": "Tokyo Jihen",
+      "has_synced": false,
+      "path": "select/05_ドーパミント!_BPM103_Tokyo_Jihen.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ドーパミント! (BPM103)",
+      "artist": "東京事変",
+      "has_synced": false,
+      "path": "select/06_ドーパミント!_(BPM103)_東京事変.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Dopa-Mint! BPM103 [ドーパミント! BPM103]",
+      "artist": "Tokyo Incidents",
+      "has_synced": false,
+      "path": "select/07_Dopa-Mint!_BPM103_[ドーパミント!_BPM103]_Tokyo_Incidents.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ドーパミント！ BPM103",
+      "artist": "東京事変",
+      "has_synced": false,
+      "path": "select/08_ドーパミント!_BPM103_東京事変.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ドーパミント!",
+      "artist": "東京事変",
+      "has_synced": true,
+      "path": "select/09_ドーパミント!_東京事変.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ドーパミント!",
+      "artist": "東京事変",
+      "has_synced": false,
+      "path": "select/pl_01_ドーパミント!_東京事変.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "ドーパミント!",
+      "artist": "東京事変",
+      "has_synced": false,
+      "path": "select/pl_02_ドーパミント!_東京事変.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "ドーパミント!",
+      "artist": "東京事変",
+      "has_synced": false,
+      "path": "select/pl_03_ドーパミント!_東京事変.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "ドーパミント!",
+      "artist": "東京事変",
+      "has_synced": false,
+      "path": "select/pl_04_ドーパミント!_東京事変.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "ドーパミント!BPM119",
+      "artist": "東京事変",
+      "has_synced": false,
+      "path": "select/pl_05_ドーパミント!BPM119_東京事変.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "ドーパミント!",
+      "artist": "東京事変",
+      "has_synced": false,
+      "path": "select/pl_06_ドーパミント!_東京事変.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "ドーパミント!",
+      "artist": "東京事変",
+      "has_synced": false,
+      "path": "select/pl_07_ドーパミント!_東京事変.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "ドーパミント! BPM103",
+      "artist": "東京事変",
+      "has_synced": false,
+      "path": "select/pl_08_ドーパミント!_BPM103_東京事変.txt"
+    }
+  ]
+}
